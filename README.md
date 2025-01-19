@@ -88,4 +88,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 This Telegram bot is developed using the unofficial Shein API. It is not affiliated with or endorsed by Shein or Telegram. Use it at your own risk.
 
----
+---git clone https://github.com/ghaiith/shein-telegram-bot.git
+cd shein-telegram-bot
+
